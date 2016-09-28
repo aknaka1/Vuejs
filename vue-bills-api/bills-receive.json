@@ -1,1 +1,1 @@
-{"bills":[{"date_due":"31\/08\/2016","name":"Salario","value":"5678.00","done":true,"id":13157},{"date_due":"30\/08\/2016","name":"Agiotagem","value":"1500","done":false,"id":85220}]}
+{"bills":[{"date_due":"2016-08-31","name":"Salario","value":"5678.00","done":true,"id":13157},{"date_due":"2016-08-30","name":"Agiotagem","value":"1500","done":false,"id":85220},{"date_due":"2016-09-27","name":"Juros","value":123.45,"done":false,"id":43691}]}

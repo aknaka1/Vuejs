@@ -22,7 +22,7 @@ window.DashboardComponent = Vue.extend({
     <h1>{{ title }}</h1>
 
 
-    <h3 :class="{'gray': totalBalance === 0, 'green': totalBalance > 0, 'red': totalBalance < 0}">{{ totalBalance | totalDashboard }}</h3>
+    <h3 :class="{'gray': totalBalance === 0, 'green': totalBalance > 0, 'red': totalBalance < 0}">{{ totalBalance | numberFormat 'pt-BR' 'BRL' | totalDashboard }}</h3>
     <!--
     <menu-component></menu-component>
     -->
@@ -38,7 +38,7 @@ window.DashboardComponent = Vue.extend({
     },
     computed: {
         totalBalance: function () {
-            var self = this;
+            let self = this;
 
             Bill.total().then(function(response) {
                 self.totalPagar = response.data.total;
