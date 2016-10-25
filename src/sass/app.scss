@@ -1,0 +1,28 @@
+//Material Icons
+@import url(http://fonts.googleapis.com/icon?family=Material+Icons);
+
+@import "node_modules/materialize-css/sass/components/color";
+
+@import "variables";
+
+@import "node_modules/materialize-css/sass/materialize";
+
+//Minhas classes
+
+//.my-custom-green{
+//  @extend .green, .darken-1, .purple-text, .text-lighten-2;
+//}
+
+.meu-modal{
+  @extend .modal;
+  width: 45%;
+}
+
+.card {
+  @extend .z-depth-2;
+}
+
+.linkEspace{
+  display: inline-block;
+  margin-right: 20px;
+}
