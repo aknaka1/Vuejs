@@ -1,7 +1,0 @@
-{
-	"host": "0.0.0.0",
-	"files": ["./dist/**/*.{html,htm,css,js}"],
-	"watchOptions": {
-		"usePolling": true
-	}
-}

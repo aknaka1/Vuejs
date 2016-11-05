@@ -2,44 +2,61 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="831c25e5-8030-48a8-a9b8-351e2b998a3f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/js/bill-pay/bill-pay-create.component.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/js/bill-pay/bill-pay-list.component.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/js/bill-pay/bill-pay.component.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/js/bill-receive/bill-receive-list.component.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/js/bill.component.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/bill-pay/bill-pay-create.component.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/bill-pay/bill-pay-list.component.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/bill-pay/bill-pay-menu.component.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/bill-pay/bill-pay.component.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/bill-receive/bill-receive-create.component.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/bill-receive/bill-receive-list.component.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/bill-receive/bill-receive-menu.component.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/bill-receive/bill-receive.component.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/bill.component.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/bill.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/dashboard.component.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/filters.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/resources.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/bill-pay/bill-pay-create.component.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/bill-pay/bill-pay-list.component.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/bill-pay/bill-pay-menu.component.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/bill-pay/bill-pay.component.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/bill-receive/bill-receive-list.component.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/bill.component.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/js/bill-receive/bill-receive-menu.component.js" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/bill-receive/bill-receive-create.component.js" afterPath="$PROJECT_DIR$/src/js/bill-receive/bill-receive-create.component.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/bill-receive/bill-receive.component.js" afterPath="$PROJECT_DIR$/src/js/bill-receive/bill-receive.component.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/bill.js" afterPath="$PROJECT_DIR$/src/js/bill.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/dashboard.component.js" afterPath="$PROJECT_DIR$/src/js/dashboard.component.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/filters.js" afterPath="$PROJECT_DIR$/src/js/filters.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main.js" afterPath="$PROJECT_DIR$/src/js/main.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/resources.js" afterPath="$PROJECT_DIR$/src/js/resources.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bs-config.json" afterPath="$PROJECT_DIR$/bs-config.json" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs-config.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/css/app.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/fonts/roboto/Roboto-Bold.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/fonts/roboto/Roboto-Bold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/fonts/roboto/Roboto-Bold.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/fonts/roboto/Roboto-Bold.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/fonts/roboto/Roboto-Light.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/fonts/roboto/Roboto-Light.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/fonts/roboto/Roboto-Light.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/fonts/roboto/Roboto-Light.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/fonts/roboto/Roboto-Medium.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/fonts/roboto/Roboto-Medium.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/fonts/roboto/Roboto-Medium.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/fonts/roboto/Roboto-Medium.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/fonts/roboto/Roboto-Regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/fonts/roboto/Roboto-Regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/fonts/roboto/Roboto-Regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/fonts/roboto/Roboto-Regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/fonts/roboto/Roboto-Thin.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/fonts/roboto/Roboto-Thin.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/fonts/roboto/Roboto-Thin.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/fonts/roboto/Roboto-Thin.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/bill-pay/bill-pay-create.component.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/bill-pay/bill-pay-list.component.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/bill-pay/bill-pay.component.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/bill-receive/bill-receive-create.component.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/bill-receive/bill-receive-list.component.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/bill-receive/bill-receive.component.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/bill.component.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/bill.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/dashboard.component.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/filters.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/modal.component.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/resources.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gulpfile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/js/bill-pay/bill-pay-create.component.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/js/bill-pay/bill-pay-list.component.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/js/bill-pay/bill-pay.component.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/js/bill-receive/bill-receive-create.component.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/js/bill-receive/bill-receive-list.component.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/js/bill-receive/bill-receive.component.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/js/bill.component.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/js/dashboard.component.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/js/modal.component.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/bill.js" afterPath="$PROJECT_DIR$/src/js/bill.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/main.js" afterPath="$PROJECT_DIR$/src/js/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/resources.js" afterPath="$PROJECT_DIR$/src/js/resources.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/sass/_variables.scss" afterPath="$PROJECT_DIR$/src/sass/_variables.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/sass/app.scss" afterPath="$PROJECT_DIR$/src/sass/app.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vue-bills-api/bills-receive.json" afterPath="$PROJECT_DIR$/vue-bills-api/bills-receive.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vue-bills-api/bills.json" afterPath="$PROJECT_DIR$/vue-bills-api/bills.json" />
     </list>
     <ignored path="vue.js.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -76,7 +93,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app.component.js" />
         <option value="$PROJECT_DIR$/bill-list.component.js" />
         <option value="$PROJECT_DIR$/bill-create.component.js" />
         <option value="$PROJECT_DIR$/bill-pay-menu.component.js" />
@@ -127,6 +143,7 @@
         <option value="$PROJECT_DIR$/src/js/bill-pay/bill-pay-list.component.js" />
         <option value="$PROJECT_DIR$/src/js/bill-pay/bill-pay.component.js" />
         <option value="$PROJECT_DIR$/src/js/dashboard.component.js" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -172,6 +189,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -203,76 +221,9 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sass" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vue.js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vue.js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vue.js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vue.js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bill-receive" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vue.js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vue.js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bill-pay" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -341,7 +292,7 @@
     <frame x="940" y="0" width="990" height="1049" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3419355" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34946236" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -377,97 +328,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/js/bill-pay/bill-pay-create.component.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="76" column="86" selection-start-line="76" selection-start-column="86" selection-end-line="76" selection-end-column="86" />
-          <folding>
-            <marker date="1477349179229" expanded="true" signature="258:2034" placeholder="..." />
-            <marker date="1477349179229" expanded="true" signature="288:2019" placeholder="..." />
-            <marker date="1477349179229" expanded="true" signature="384:2000" placeholder="..." />
-            <marker date="1477349179229" expanded="true" signature="422:953" placeholder="..." />
-            <marker date="1477349179229" expanded="true" signature="479:674" placeholder="..." />
-            <marker date="1477349179229" expanded="true" signature="731:926" placeholder="..." />
-            <marker date="1477349179229" expanded="true" signature="991:1728" placeholder="..." />
-            <marker date="1477349179229" expanded="true" signature="1048:1470" placeholder="..." />
-            <marker date="1477349179229" expanded="true" signature="1139:1375" placeholder="..." />
-            <marker date="1477349179229" expanded="true" signature="1527:1701" placeholder="..." />
-            <marker date="1477349179229" expanded="true" signature="1766:1976" placeholder="..." />
-            <marker date="1477349179229" expanded="true" signature="1824:1949" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/modal.component.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/bill-pay/bill-pay-list.component.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1477353951969" expanded="true" signature="153:1562" placeholder="..." />
-            <marker date="1477353951969" expanded="true" signature="183:1547" placeholder="..." />
-            <marker date="1477353951969" expanded="true" signature="325:1528" placeholder="..." />
-            <marker date="1477353951969" expanded="true" signature="353:667" placeholder="..." />
-            <marker date="1477353951969" expanded="true" signature="378:638" placeholder="..." />
-            <marker date="1477353951969" expanded="true" signature="695:1503" placeholder="..." />
-            <marker date="1477353951969" expanded="true" signature="747:1474" placeholder="..." />
-            <marker date="1477353951969" expanded="true" signature="1117:1200" placeholder="..." />
-            <marker date="1477353951969" expanded="true" signature="1229:1448" placeholder="..." />
-            <marker date="1477353951969" expanded="true" signature="1611:2470" placeholder="..." />
-            <marker date="1477353951969" expanded="true" signature="1644:2158" placeholder="..." />
-            <marker date="1477353951969" expanded="true" signature="2190:2453" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/bill-pay/bill-pay-create.component.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1477349179229" expanded="true" signature="258:2034" placeholder="..." />
-            <marker date="1477349179229" expanded="true" signature="288:2019" placeholder="..." />
-            <marker date="1477349179229" expanded="true" signature="384:2000" placeholder="..." />
-            <marker date="1477349179229" expanded="true" signature="422:953" placeholder="..." />
-            <marker date="1477349179229" expanded="true" signature="479:674" placeholder="..." />
-            <marker date="1477349179229" expanded="true" signature="731:926" placeholder="..." />
-            <marker date="1477349179229" expanded="true" signature="991:1728" placeholder="..." />
-            <marker date="1477349179229" expanded="true" signature="1048:1470" placeholder="..." />
-            <marker date="1477349179229" expanded="true" signature="1139:1375" placeholder="..." />
-            <marker date="1477349179229" expanded="true" signature="1527:1701" placeholder="..." />
-            <marker date="1477349179229" expanded="true" signature="1766:1976" placeholder="..." />
-            <marker date="1477349179229" expanded="true" signature="1824:1949" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/bill-pay/bill-pay-list.component.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="39" column="16" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
-          <folding>
-            <marker date="1477353951969" expanded="true" signature="153:1562" placeholder="..." />
-            <marker date="1477353951969" expanded="true" signature="183:1547" placeholder="..." />
-            <marker date="1477353951969" expanded="true" signature="325:1528" placeholder="..." />
-            <marker date="1477353951969" expanded="true" signature="353:667" placeholder="..." />
-            <marker date="1477353951969" expanded="true" signature="378:638" placeholder="..." />
-            <marker date="1477353951969" expanded="true" signature="695:1503" placeholder="..." />
-            <marker date="1477353951969" expanded="true" signature="747:1474" placeholder="..." />
-            <marker date="1477353951969" expanded="true" signature="1117:1200" placeholder="..." />
-            <marker date="1477353951969" expanded="true" signature="1229:1448" placeholder="..." />
-            <marker date="1477353951969" expanded="true" signature="1611:2470" placeholder="..." />
-            <marker date="1477353951969" expanded="true" signature="1644:2158" placeholder="..." />
-            <marker date="1477353951969" expanded="true" signature="2190:2453" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/js/filters.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -475,42 +335,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/bill-receive/bill-receive-list.component.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="36" column="16" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/bill-pay/bill-pay-list.component.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="55" column="47" selection-start-line="55" selection-start-column="47" selection-end-line="55" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/js/resources.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/bill-pay/bill-pay-create.component.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="31" column="14" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/bill-pay/bill-pay-list.component.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="55" column="47" selection-start-line="55" selection-start-column="47" selection-end-line="55" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/bill-pay/bill-pay.component.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -601,24 +426,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bs-config.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.039443154">
-          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/js/resources.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.1722973">
           <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/modal.component.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.28716215">
-          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -636,79 +447,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gulpfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.09572072">
-          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/bill.component.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.1677928">
-          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-          <folding>
-            <marker date="1476918954413" expanded="true" signature="132:276" placeholder="..." />
-            <marker date="1476918954413" expanded="true" signature="173:262" placeholder="..." />
-            <marker date="1476918954413" expanded="true" signature="311:1432" placeholder="..." />
-            <marker date="1476918954413" expanded="true" signature="342:1417" placeholder="..." />
-            <marker date="1476918954413" expanded="true" signature="394:1398" placeholder="..." />
-            <marker date="1476918954413" expanded="true" signature="552:636" placeholder="..." />
-            <marker date="1476918954413" expanded="true" signature="695:1136" placeholder="..." />
-            <marker date="1476918954413" expanded="true" signature="743:1110" placeholder="..." />
-            <marker date="1476918954413" expanded="true" signature="866:996" placeholder="..." />
-            <marker date="1476918954413" expanded="true" signature="1194:1375" placeholder="..." />
-            <marker date="1476918954413" expanded="true" signature="1242:1349" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/bill-receive/bill-receive.component.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.052927926">
-          <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
-          <folding>
-            <marker date="1477348857961" expanded="true" signature="87:1323" placeholder="..." />
-            <marker date="1477348857961" expanded="true" signature="123:1308" placeholder="..." />
-            <marker date="1477348857961" expanded="true" signature="194:1289" placeholder="..." />
-            <marker date="1477348857961" expanded="true" signature="235:776" placeholder="..." />
-            <marker date="1477348857961" expanded="true" signature="366:749" placeholder="..." />
-            <marker date="1477348857961" expanded="true" signature="432:718" placeholder="..." />
-            <marker date="1477348857961" expanded="true" signature="487:606" placeholder="..." />
-            <marker date="1477348857961" expanded="true" signature="817:1266" placeholder="..." />
-            <marker date="1477348857961" expanded="true" signature="870:1239" placeholder="..." />
-            <marker date="1477348857961" expanded="true" signature="925:1208" placeholder="..." />
-            <marker date="1477348857961" expanded="true" signature="980:1091" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/bill-receive/bill-receive-create.component.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.46396396">
-          <caret line="44" column="14" selection-start-line="44" selection-start-column="14" selection-end-line="44" selection-end-column="14" />
-          <folding>
-            <marker date="1477351338324" expanded="true" signature="199:1987" placeholder="..." />
-            <marker date="1477351338324" expanded="true" signature="229:1972" placeholder="..." />
-            <marker date="1477351338324" expanded="true" signature="325:1953" placeholder="..." />
-            <marker date="1477351338324" expanded="true" signature="363:894" placeholder="..." />
-            <marker date="1477351338324" expanded="true" signature="420:615" placeholder="..." />
-            <marker date="1477351338324" expanded="true" signature="672:867" placeholder="..." />
-            <marker date="1477351338324" expanded="true" signature="932:1681" placeholder="..." />
-            <marker date="1477351338324" expanded="true" signature="989:1411" placeholder="..." />
-            <marker date="1477351338324" expanded="true" signature="1080:1316" placeholder="..." />
-            <marker date="1477351338324" expanded="true" signature="1468:1654" placeholder="..." />
-            <marker date="1477351338324" expanded="true" signature="1719:1929" placeholder="..." />
-            <marker date="1477351338324" expanded="true" signature="1777:1902" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="13" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -716,106 +458,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.22972973">
           <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/bill-pay/bill-pay-list.component.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.042792793">
-          <caret line="38" column="32" selection-start-line="38" selection-start-column="32" selection-end-line="38" selection-end-column="32" />
-          <folding>
-            <marker date="1477353951969" expanded="true" signature="153:1562" placeholder="..." />
-            <marker date="1477353951969" expanded="true" signature="183:1547" placeholder="..." />
-            <marker date="1477353951969" expanded="true" signature="325:1528" placeholder="..." />
-            <marker date="1477353951969" expanded="true" signature="353:667" placeholder="..." />
-            <marker date="1477353951969" expanded="true" signature="378:638" placeholder="..." />
-            <marker date="1477353951969" expanded="true" signature="695:1503" placeholder="..." />
-            <marker date="1477353951969" expanded="true" signature="747:1474" placeholder="..." />
-            <marker date="1477353951969" expanded="true" signature="1117:1200" placeholder="..." />
-            <marker date="1477353951969" expanded="true" signature="1229:1448" placeholder="..." />
-            <marker date="1477353951969" expanded="true" signature="1611:2470" placeholder="..." />
-            <marker date="1477353951969" expanded="true" signature="1644:2158" placeholder="..." />
-            <marker date="1477353951969" expanded="true" signature="2190:2453" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/bill-receive/bill-receive-list.component.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6509009">
-          <caret line="37" column="47" selection-start-line="37" selection-start-column="29" selection-end-line="37" selection-end-column="47" />
-          <folding>
-            <marker date="1477353783204" expanded="true" signature="157:1583" placeholder="..." />
-            <marker date="1477353783204" expanded="true" signature="187:1568" placeholder="..." />
-            <marker date="1477353783204" expanded="true" signature="331:1549" placeholder="..." />
-            <marker date="1477353783204" expanded="true" signature="359:677" placeholder="..." />
-            <marker date="1477353783204" expanded="true" signature="384:648" placeholder="..." />
-            <marker date="1477353783204" expanded="true" signature="705:1524" placeholder="..." />
-            <marker date="1477353783204" expanded="true" signature="757:1495" placeholder="..." />
-            <marker date="1477353783204" expanded="true" signature="1127:1217" placeholder="..." />
-            <marker date="1477353783204" expanded="true" signature="1246:1469" placeholder="..." />
-            <marker date="1477353783204" expanded="true" signature="1632:2491" placeholder="..." />
-            <marker date="1477353783204" expanded="true" signature="1665:2179" placeholder="..." />
-            <marker date="1477353783204" expanded="true" signature="2211:2474" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/dashboard.component.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.40202704">
-          <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
-          <folding>
-            <marker date="1477354375936" expanded="true" signature="81:809" placeholder="..." />
-            <marker date="1477354375936" expanded="true" signature="113:798" placeholder="..." />
-            <marker date="1477354375936" expanded="true" signature="143:783" placeholder="..." />
-            <marker date="1477354375936" expanded="true" signature="218:764" placeholder="..." />
-            <marker date="1477354375936" expanded="true" signature="357:741" placeholder="..." />
-            <marker date="1477354375936" expanded="true" signature="419:714" placeholder="..." />
-            <marker date="1477354375936" expanded="true" signature="470:581" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/bill-pay/bill-pay.component.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3063063">
-          <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
-          <folding>
-            <marker date="1477349261687" expanded="true" signature="83:1312" placeholder="..." />
-            <marker date="1477349261687" expanded="true" signature="119:1297" placeholder="..." />
-            <marker date="1477349261687" expanded="true" signature="190:1278" placeholder="..." />
-            <marker date="1477349261687" expanded="true" signature="231:765" placeholder="..." />
-            <marker date="1477349261687" expanded="true" signature="362:738" placeholder="..." />
-            <marker date="1477349261687" expanded="true" signature="428:707" placeholder="..." />
-            <marker date="1477349261687" expanded="true" signature="483:602" placeholder="..." />
-            <marker date="1477349261687" expanded="true" signature="806:1255" placeholder="..." />
-            <marker date="1477349261687" expanded="true" signature="859:1228" placeholder="..." />
-            <marker date="1477349261687" expanded="true" signature="914:1197" placeholder="..." />
-            <marker date="1477349261687" expanded="true" signature="969:1080" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/bill-pay/bill-pay-create.component.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6891892">
-          <caret line="36" column="44" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="44" />
-          <folding>
-            <marker date="1477349179229" expanded="true" signature="258:2034" placeholder="..." />
-            <marker date="1477349179229" expanded="true" signature="288:2019" placeholder="..." />
-            <marker date="1477349179229" expanded="true" signature="384:2000" placeholder="..." />
-            <marker date="1477349179229" expanded="true" signature="422:953" placeholder="..." />
-            <marker date="1477349179229" expanded="true" signature="479:674" placeholder="..." />
-            <marker date="1477349179229" expanded="true" signature="731:926" placeholder="..." />
-            <marker date="1477349179229" expanded="true" signature="991:1728" placeholder="..." />
-            <marker date="1477349179229" expanded="true" signature="1048:1470" placeholder="..." />
-            <marker date="1477349179229" expanded="true" signature="1139:1375" placeholder="..." />
-            <marker date="1477349179229" expanded="true" signature="1527:1701" placeholder="..." />
-            <marker date="1477349179229" expanded="true" signature="1766:1976" placeholder="..." />
-            <marker date="1477349179229" expanded="true" signature="1824:1949" placeholder="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -823,7 +465,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.019721577">
           <caret line="1" column="49" selection-start-line="1" selection-start-column="49" selection-end-line="1" selection-end-column="49" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -831,6 +472,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.2239521">
           <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/bill-pay/bill-pay.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.12823397">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
