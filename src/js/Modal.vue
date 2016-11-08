@@ -20,6 +20,11 @@
                     }
                 }
             }
+        },
+        ready(){
+            $(document).ready(() => {
+                $(`#${this.modal.id}`).modal();
+            });
         }
     };
 </script>

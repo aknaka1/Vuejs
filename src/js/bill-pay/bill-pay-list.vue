@@ -36,8 +36,8 @@
             </table>
         </div>
     </div>
-    <modal :modal="modal" class="meu-modal"  v-if="billToDelete">
-        <div slot="content">
+    <modal :modal="modal">
+        <div slot="content" v-if="billToDelete">
             <h4>Mensagem de confirmação</h4>
             <p><strong>Deseja excluir esta conta?</strong></p>
             <div class="divider"></div>
@@ -86,7 +86,7 @@
             },
             openModalDelete(bill) {
                 this.billToDelete = bill;
-                $('#modal-delete').openModal();
+                $('#modal-delete').modal('open');
             }
         }
     };
